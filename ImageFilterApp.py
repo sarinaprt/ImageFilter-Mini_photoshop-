@@ -1,6 +1,5 @@
-import os
+
 import tkinter as tk
-from asyncio import exceptions
 from tkinter import ttk
 import cv2
 import numpy as np
