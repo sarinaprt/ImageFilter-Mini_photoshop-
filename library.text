@@ -1,0 +1,7 @@
+#library
+
+pip install opencv-python
+pip install numpy
+pip install Pillow
+pip install tkintertable
+

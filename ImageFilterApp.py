@@ -6,8 +6,8 @@ import cv2
 import numpy as np
 from PIL import Image, ImageTk
 from tkinter import filedialog, messagebox, StringVar  # برای باز کردن پنجره‌های انتخاب فایل استفاده میشه
-import os
-print(os.getcwd())
+
+
 original_image=None #آرایه عکس اولیه
 edited_image=None # آرایه ی فیلترهای قبلی تمام شده
 preview_image=None #  عکسی که فیلتر روش اعمال شده ولی تایید نشده
