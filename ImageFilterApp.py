@@ -496,4 +496,3 @@ for i,filter in enumerate(FILTERS_LIST):
 root.mainloop()
 
 
-
